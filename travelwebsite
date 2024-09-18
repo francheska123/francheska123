@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+        <style>
+            h1 {
+                color: rgb(255, 0, 0);
+            }
+            h2 {
+                color: rgb(0, 58, 219);
+            }
+            
+            #natural-rainforests {
+                color: rgb(39, 97, 40);
+            }
+            
+            #english-speaking {
+                color: rgb(150, 90, 74);
+            }
+            
+            #flora-fauna{
+                color: rgb(148, 70, 148);
+            }
+            
+            #destinations{
+                background-color: rgb(159, 255, 135);
+            }
+            
+            #cafes{
+                background-color: rgb(252, 138, 252);
+            }
+        </style>
+        
+        <h1>Travel to Costa Rica! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/640px-Flag_of_Costa_Rica_%28state%29.svg.png" width="40"></h1> 
+        <h2>A tropical destination in Central America.</h2>
+        
+        <h3 id="natural-rainforests"> Boundless natural rainforests</h3>
+        
+        <p> Costa Rica takes up 1.5% of the total land space on Earth but accounts for <strong>3% of its biodiversity</strong>.</p>
+        <p> What does this mean for one visiting the country? This means that you're going to have access to some of the most incredible protected lands in the world.</p>
+        
+        <h3 id="english-speaking">High English-speaking population</h3>
+        
+        <p> For over half a century the country dismantled its armed forces in order to better invest this money into its education. Its incredible public schooling ensures that most of the population can <em>communicate</em> and <em>articulate</em> in the language. This knowledge of the universal language ensures that you won't ever feel uncomfortable in your stay.</p>
+        
+        <h3 id="flora-fauna">Stunning flora and fauna</h3>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/HeliconiusDorisLinnaeus.jpg/300px-HeliconiusDorisLinnaeus.jpg">
+        
+        <p> Captivating fauna that you won't be able to find anywhere else </p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Camino_de_Costa_Rica_Ave_Sol_River_Sanctuary_Volc%C3%A1n_Turrialba_River_Pacuare.jpg/2560px-Camino_de_Costa_Rica_Ave_Sol_River_Sanctuary_Volc%C3%A1n_Turrialba_River_Pacuare.jpg" width="300">
+        
+        <p> And breahtaking flora that you wish to live in. </p>
+        
+        <h3>A list of our favorite destinations to visit</h3>
+            <ul id="destinations">
+                <li>Manuel Antonio</li>
+                <li>Volcán Arenal</li>
+                <li>Monteverde</li>
+                <li>Río Celeste</li>
+            </ul>
+            
+        <h3>A list of our favorite cafés ranked in order of preference</h3>
+            <ol id="cafes">
+                <li>Bulalí</li>
+                <li>Picnic</li>
+                <li>Dulce Chilena <em>por la mejor chilena del mundo se los juro</em></li>
+                <li>Cafe Honoré</li>
+                <li>Café Miel</li>
+            </ol>
+    </body>
+</html>
