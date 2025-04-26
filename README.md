@@ -1,7 +1,9 @@
 # Hi, I'm Francheska. Welcome to my world!👋
 
-I thrive at **storytelling through data**—translating complex information into clear, actionable insights. With a background in analytics, strategy, and content development, I bring a mix of creativity and technical expertise to problem-solving.
+I'm a storyteller I thrive at **storytelling through data**—translating complex information into clear, actionable insights. With a background in analytics, strategy, and content development, I bring a mix of creativity and technical expertise to problem-solving.
 
+## ✨ About Me in 30 sec ✨
+- Marketing background 
 I’ve built a strong foundation in *Excel and SQL* and am currently expanding my skill set with *Tableau and Python* to deepen my ability to analyze and communicate data effectively. Whether it’s identifying trends, analyzing performance, or crafting compelling data narratives, I love finding meaning in the metrics.
 
 ## Strengths & Expertise
